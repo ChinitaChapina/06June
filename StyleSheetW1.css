@@ -1,0 +1,52 @@
+  body{
+      background-color: #f0f1f2;
+      background-position: center;  
+      text-align: left;
+      font-family: Helvetica;
+      color: #3c918d; 
+    }
+  h1{
+    color:#24adc2;
+    text-align: center;
+
+  }  
+
+  h2{
+    color:#263649;
+
+  }
+
+  p{
+      font-size: 20px;
+      color: #3c918d;
+    }
+
+  nav{
+      text-align: center;
+      font-weight: bold;
+      font-family: Helvetica;
+   }
+
+  a:link{
+      color:  #5bc1b9;
+      text-decoration: none;
+
+  }
+  
+  a:active{
+      color: #456e87;
+  }
+ 
+  img {
+    border: 5px solid #7dccc7 ;
+    display: block;
+    margin:auto;
+    width: 75%;
+}
+
+  .bioimg {
+    border: 5px solid #7dccc7 ;
+    display: block;
+    margin:auto;
+    width: 25%;
+}
