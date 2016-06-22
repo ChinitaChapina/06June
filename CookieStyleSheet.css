@@ -1,0 +1,52 @@
+    body {
+      background-color: #FFE;
+      text-align: left;
+      text-indent: 5pt;
+      font-family: helvetica;
+      border-style: solid;
+      border-width: thick;
+      border-color: black;
+      padding:20px;
+  }
+
+    h1 {
+    text-align: center;
+    color: #000088;
+  }
+
+    h3{
+    color: #887;
+  }
+
+    p {
+      font-size: 10pt;
+      color: #000088;
+  }
+  
+    a:link{ 
+      color:#900;
+  }
+      
+    a:visited { 
+      color:#900;
+  }
+  
+    ul {
+      color:#000088;
+  }
+
+    ol {
+      color:#000088;
+  }
+
+  img {
+    border: 5px solid black;
+    display: block;
+    margin:auto;
+    width: 50%;
+
+    
+  }
+
+
+    
